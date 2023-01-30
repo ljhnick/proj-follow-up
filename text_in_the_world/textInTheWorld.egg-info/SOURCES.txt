@@ -6,10 +6,15 @@ textInTheWorld.egg-info/dependency_links.txt
 textInTheWorld.egg-info/not-zip-safe
 textInTheWorld.egg-info/top_level.txt
 textInTheWorld/data/__init__.py
+<<<<<<< HEAD
 textInTheWorld/data/prep.py
 textInTheWorld/data/process.py
 textInTheWorld/gpt3/__init__.py
 textInTheWorld/gpt3/wrapper.py
+=======
+textInTheWorld/gbt3/__init__.py
+textInTheWorld/gbt3/wrapper.py
+>>>>>>> main
 textInTheWorld/train/__init__.py
 textInTheWorld/utils/__init__.py
 textInTheWorld/utils/read_csv.py
