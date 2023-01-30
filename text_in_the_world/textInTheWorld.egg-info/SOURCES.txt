@@ -1,0 +1,13 @@
+setup.py
+textInTheWorld/__init__.py
+textInTheWorld.egg-info/PKG-INFO
+textInTheWorld.egg-info/SOURCES.txt
+textInTheWorld.egg-info/dependency_links.txt
+textInTheWorld.egg-info/not-zip-safe
+textInTheWorld.egg-info/top_level.txt
+textInTheWorld/data/__init__.py
+textInTheWorld/gbt3/__init__.py
+textInTheWorld/gbt3/wrapper.py
+textInTheWorld/train/__init__.py
+textInTheWorld/utils/__init__.py
+textInTheWorld/utils/read_csv.py
